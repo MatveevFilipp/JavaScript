@@ -5,3 +5,6 @@
     + /*!важные*/
     + /*пояснения*/
     + /*-скрытый код*/
+    
+# Cтруктура курса
+[1 работа]:https://github.com/VipBender/JavaScript/tree/master/1js
