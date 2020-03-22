@@ -46,8 +46,12 @@ Ryan Stewart <rstewart@adobe.com> (http://github.com/ryanstewart)
 #### изменение emmet шаблона (!+tab)
 1. ищем файл [snippets.json](https://github.com/VipBender/JavaScript/blob/master/Brackets/snippets.json) по пути C:\Users\**user**\AppData\Roaming\Brackets\extensions\user\brackets-emmet\node_modules\emmet\lib
 2. изменяем в нем:  
+"lang": "en",  
+"locale": "en-EN",  
 "doc": "html>(head>meta[charset=${charset}]+title{${1:Document}})+body",  
 на свой код:  
+"lang": "ru",  
+"locale": "ru-RU",  
 "doc": "html>(head>meta[charset=${charset}]+title{${1:Document}}+link)+body+script:src",
 #### комбинации
 !+tab -> 
