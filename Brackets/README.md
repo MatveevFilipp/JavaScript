@@ -42,16 +42,31 @@ Ryan Stewart <rstewart@adobe.com> (http://github.com/ryanstewart)
 
 # Полезно  
 
-### основы emmet 
+### основы emmet  
 #### изменение emmet шаблона (!+tab)
 1. ищем файл [snippets.json](https://github.com/VipBender/JavaScript/blob/master/Brackets/snippets.json) по пути C:\Users\**user**\AppData\Roaming\Brackets\extensions\user\brackets-emmet\node_modules\emmet\lib
-2. изменяем в нем:  
+2. **изменяем в нем:**  
 "lang": "en",  
 "locale": "en-EN",  
 "doc": "html>(head>meta[charset=${charset}]+title{${1:Document}})+body",  
-на свой код:  
+**на свой код:**  
 "lang": "ru",  
 "locale": "ru-RU",  
 "doc": "html>(head>meta[charset=${charset}]+title{${1:Document}}+link)+body+script:src",
 #### комбинации
-!+tab -> 
+!+tab -> шаблон html  
+тег+tab -> шаблон тега  
+.имя_класса -> <div class="имя_класса"></div>  
+тег.имя_класса -> <тег class="имя_класса"></тег>  
+#имя_id -> <div id="имя_id"></div>  
+тег#имя_id -> <тег id="имя_id"></тег>  
+lorem30 -> текст из 30 слов  
+
+### комбинации клавиш brackets  
++ ctrl+s - сохранить файл  
++ ctrl+d - дублировать строку    
++ ctrl+z - отмена  
++ ctrl+y - повтор  
++ ctrl+f - поиск  
++ ctrl++ - увеличить шрифт  
++ ctrl+- - уменьшить шрифт  
