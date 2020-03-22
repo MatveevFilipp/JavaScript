@@ -56,9 +56,9 @@ Ryan Stewart <rstewart@adobe.com> (http://github.com/ryanstewart)
 #### комбинации
 !+tab -> шаблон html  
 тег+tab -> шаблон тега  
-.имя_класса -> <div class="имя_класса"></div>  
+.имя_класса -> \<div class="имя_класса">\</div>  
 тег.имя_класса -> <тег class="имя_класса"></тег>  
-#имя_id -> <div id="имя_id"></div>  
+#имя_id -> \<div id="имя_id">\</div>  
 тег#имя_id -> <тег id="имя_id"></тег>  
 lorem30 -> текст из 30 слов  
 
