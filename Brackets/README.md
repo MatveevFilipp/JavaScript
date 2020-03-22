@@ -6,12 +6,21 @@
 ### настройка 'Файл -> Менеджер расширений'
 + Autosave Files on Window Blur - автосохранение  
 Marty Penner <penner.marty@gmail.com>
-+ Beautify - приятный вид файла (Ctrl+Shift+L)  
++ Beautify - g\приятный вид файла (Ctrl+Shift+L)  
 Drew Hamlett <i@drewh.me> (https://github.com/drewhamlett)
-+ Brackets Git - Интеграция Git  
++ Brackets Git - интеграция Git  
 Martin Zagora
-+ Brackets Icons - Значки для дерева файлов  
++ Brackets Icons - значки для дерева файлов  
 Ivo Gabe de Wolff (https://github.com/ivogabe)
++ brackets-eslint - добавляет поддержку ESLint / убирает ошибки новых возможностей js  
+François de Campredon <francois.de.campredon@gmail.com> (https://github.com/fdecampredon/)
++ Emmet - быстрая работа с HTML и CSS  
+Sergey Chikuyonok <serge.che@gmail.com> (https://github.com/sergeche)
++ JS CSS Minifier - минимизировать файл (Ctrl+Alt+M)  
+Andrew Bagshaw
++ SVG Preview - просмотр SVG-файлов  
++ Tomorrow Night - тема  
+Ryan Stewart <rstewart@adobe.com> (http://github.com/ryanstewart)
 
 ### настройка 'Вид'
 ✓ Themes...  
