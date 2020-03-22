@@ -8,11 +8,10 @@
 Marty Penner <penner.marty@gmail.com>
 + Beautify - приятный вид файла (Ctrl+Shift+L)  
 Drew Hamlett <i@drewh.me> (https://github.com/drewhamlett)
-+ beautify.io
-dingdong (https://github.com/dingdong-io)
-
-Format JavaScript, HTML, and CSS files
-Подробнее…
++ Brackets Git - Интеграция Git  
+Martin Zagora
++ Brackets Icons - Значки для дерева файлов  
+Ivo Gabe de Wolff (https://github.com/ivogabe)
 
 ### настройка 'Вид'
 ✓ Themes...  
