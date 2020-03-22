@@ -7,4 +7,4 @@
 ### Cтруктура курса
 [1 работа](https://github.com/VipBender/JavaScript/tree/master/1js)  
 ### Полезно
-[Мои настройки Brackets](https://github.com/VipBender/JavaScript/blob/master/Brackets)
+[Мои настройки brackets](https://github.com/VipBender/JavaScript/blob/master/Brackets)
