@@ -39,3 +39,10 @@ Ryan Stewart <rstewart@adobe.com> (http://github.com/ryanstewart)
 
 ### настройка 'Отладка -> Открыть файл настроек'
 [brackets.json](https://github.com/VipBender/JavaScript/blob/master/Brackets/brackets.json)
+
+# Полезно  
+
+### основы emmet  
+1. создаем файл [snippets.json](https://github.com/VipBender/JavaScript/blob/master/Brackets/snippets.json) по пути C:\Users\Default\AppData\Roaming\Brackets\extensions\snippets
+2. Emmet -> Preferences... -> вставляем путь: C:\Users\Default\AppData\Roaming\Brackets\extensions\snippets  
+!+tab -> 
