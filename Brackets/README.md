@@ -16,4 +16,4 @@
 ✓ Заворачивать строки  
 ✓ Анализировать при сохранении  
 ✓ Show secondary icons
-✓ Ionicons
+✓ Ionicons  
