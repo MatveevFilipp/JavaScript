@@ -4,11 +4,11 @@
 [brackets.io](brackets.io)
 
 ### настройка 'Вид'
-✓ Themes...  
+✓ Themes...
 + Current Theme: Tomorrow Night  
 + Use Thema Scrollbars: ✓  
 + Font Size: 14px  
-+ Font Famili: Consolas
++ Font Famili: Consolas  
 ✓ No split  
 ✓ Automatically close search  
 ✓ Подсвечивать активную строку  
