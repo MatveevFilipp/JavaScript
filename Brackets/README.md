@@ -1,12 +1,12 @@
-# Мои настройки brackets
+# Мои настройки brackets  
 
 ### скачиваем
-[brackets.io](brackets.io)
+[brackets.io](brackets.io)  
 
 ### настройка 'Файл -> Менеджер расширений'
 + Autosave Files on Window Blur - автосохранение  
 Marty Penner <penner.marty@gmail.com>
-+ Beautify - g\приятный вид файла (Ctrl+Shift+L)  
++ Beautify - приятный вид файла (Ctrl+Shift+L)  
 Drew Hamlett <i@drewh.me> (https://github.com/drewhamlett)
 + Brackets Git - интеграция Git  
 Martin Zagora
@@ -20,7 +20,7 @@ Sergey Chikuyonok <serge.che@gmail.com> (https://github.com/sergeche)
 Andrew Bagshaw
 + SVG Preview - просмотр SVG-файлов  
 + Tomorrow Night - тема  
-Ryan Stewart <rstewart@adobe.com> (http://github.com/ryanstewart)
+Ryan Stewart <rstewart@adobe.com> (http://github.com/ryanstewart)  
 
 ### настройка 'Вид'
 ✓ Themes...  
@@ -36,3 +36,6 @@ Ryan Stewart <rstewart@adobe.com> (http://github.com/ryanstewart)
 ✓ Анализировать при сохранении  
 ✓ Show secondary icons
 ✓ Ionicons  
+
+### настройка 'Отладка -> Открыть файл настроек'
+[brackets.json](https://github.com/VipBender/JavaScript/blob/master/Brackets/brackets.json)
