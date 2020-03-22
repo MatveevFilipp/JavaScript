@@ -42,7 +42,9 @@ Ryan Stewart <rstewart@adobe.com> (http://github.com/ryanstewart)
 
 # Полезно  
 
-### основы emmet  
+### основы emmet 
+#### изменение emmet шаблона
 1. создаем файл [snippets.json](https://github.com/VipBender/JavaScript/blob/master/Brackets/snippets.json) по пути C:\Users\Default\AppData\Roaming\Brackets\extensions\snippets
 2. Emmet -> Preferences... -> вставляем путь (**особое внимание на слэшы**): C:/Users/Default/AppData/Roaming/Brackets/extensions/snippets  
+#### комбинации
 !+tab -> 
