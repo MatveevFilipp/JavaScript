@@ -11,14 +11,34 @@
         .foto {
             width: 350px;
             height: 200px;
+            background-color: #cecece;
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-position: center;
+            background-image: url(foto1.png);
+        }
+        .newfoto {
+            background-image: url(foto2.jpg);
         }
     </style>
 </head>
 <body>
-    <div class="foto">тут фото</div>
-    <button id="button">Кнопка</button>
+    <div class="foto"></div>
+    <button class="button">Кнопка</button>
 </body>
 <script>
+     /* !Создаем переменные для всех объектов */
+    /* Для div */
+    let foto = document.querySelector('.foto');
+    /* Для кнопки */
+    let button = document.querySelector('.button');
 
+    /* !
+    Добавим слушателя с типом click для кнопки
+    Внутри функции будем добавлять/удалять класс
+    */
+    button.addEventListener('click', function(){
+        foto.classList.toggle('newfoto');
+    });
 </script>
 </html>
