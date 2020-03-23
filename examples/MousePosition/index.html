@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+   <!-- Создаем наши объекты, с которыми будем работать -->
+    <p class="textX">X:</p>
+    <p class="textY">Y:</p>
+</body>
+<script>
+    /* !Создаем переменные для объектов */
+    let textX = document.querySelector('.textX');
+    let textY = document.querySelector('.textY');
+
+    /* -
+    console.dir(textX);
+    console.dir(textY);
+    */
+    /* !
+    Добавим слушателя с типом mousemove для всего документа
+    и узнаем значение мыши, через event
+    */
+    document.addEventListener('mousemove', function(){
+    /* ! pageX - относительно документа, clientX - относительно окна*/
+    textX.textContent = "X: " + event.pageX;
+    /* ! pageY - относительно документа, clientY - относительно окна*/
+    textY.textContent = "Y: " + event.pageY;
+    });
+
+</script>
+</html>
