@@ -21,5 +21,5 @@
 ### Cтруктура курса
 [1 работа](https://github.com/VipBender/JavaScript/tree/master/1js)  
 ### Полезно
-[Мои настройки brackets](https://github.com/VipBender/JavaScript/blob/master/Brackets)
-[Примеры](https://github.com/VipBender/JavaScript/tree/master/examples)
+[Мои настройки brackets](https://github.com/VipBender/JavaScript/blob/master/Brackets)  
+[Примеры](https://github.com/VipBender/JavaScript/tree/master/examples)  
