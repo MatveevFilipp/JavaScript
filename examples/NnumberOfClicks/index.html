@@ -7,11 +7,48 @@
 <body>
    <!-- Создаем наши объекты, с которыми будем работать -->
     <p class="text">Нажатий:</p>
-    <button id="b1">Кнопка +1</button>
-    <button id="b3">Кнопка +3</button>
-    <button id="b5">Кнопка +5</button>
+    <button id="button1">Кнопка +1</button>
+    <button id="button3">Кнопка +3</button>
+    <button id="button5">Кнопка +5</button>
 </body>
 <script>
-    /**/
+    /* !Создаем переменные для всех объектов */
+    /* Для поля */
+    let TextField = document.querySelector('.text');
+    /* Для кнопок */
+    let b1 = document.querySelector('#button1');
+    let b3 = document.querySelector('#button3');
+    let b5 = document.querySelector('#button5');
+    /*
+    Выведем свойства поля и первой кнопки в консоль
+    Небольшая подсказка нам в дальнейшем)
+    В данном случаи нам понадобится textContent у поля
+    */
+    console.dir(TextField);
+    console.dir(b1);
+
+    /* !Добавим счетчик кликов и запишем его в textContent у поля */
+    let i = 0;
+    TextField.textContent = 'Нажатий: ' + i;
+
+    /* !
+    Добавим слушателя с типом click для первой кнопки
+    Внутри функции увеличим счетчик и изменим значения textContent у поля
+    */
+    b1.addEventListener('click', function(){
+        i+=1;
+        TextField.textContent = 'Нажатий: ' + i;
+    });
+
+    /* Добавим слушателей для второй и третей кнопки */
+    b3.addEventListener('click', function(){
+        i+=3;
+        TextField.textContent = 'Нажатий: ' + i;
+    });
+    b5.addEventListener('click', function(){
+        i+=5;
+        TextField.textContent = 'Нажатий: ' + i;
+    });
+
 </script>
 </html>
