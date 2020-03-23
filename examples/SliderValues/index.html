@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+   <!-- Создаем наши объекты, с которыми будем работать -->
+    <p class="text">Минимальное значение:</p>
+    <input class="inputMin" type="number" value="0" step="1" min="0" max="9999999">
+    <p class="text">Максимальное значение:</p>
+    <input class="inputMax" type="number" value="500" step="1" min="0" max="9999999">
+    <br>    <br>    <br>    <br>
+    <input class="slider" type="range" min="0" max="500" step="1" value="250">
+    <input class="result" type="number" step="1" disabled>
+</body>
+<script>
+    /* !Создаем переменные для всех объектов */
+    let inputMin = document.querySelector('.inputMin');
+    let inputMax = document.querySelector('.inputMax');
+    let slider = document.querySelector('.slider');
+    let result = document.querySelector('.result');
+
+    /* -
+    console.dir(inputMin);
+    console.dir(inputMax);
+    console.dir(slider);
+    console.dir(result);
+    */
+
+    /* !
+    Добавим слушателя с типом input для отслеживания изменений в min и max
+    и записи этих значение в наш slider соответственно
+    */
+    inputMin.addEventListener('input',function(){
+        slider.min = inputMin.value;
+    });
+    inputMax.addEventListener('input',function(){
+        slider.max = inputMax.value;
+    });
+
+    /* ! Добавим вывод значения slider в result */
+    slider.addEventListener('input',function(){
+        result.value = slider.value;
+    });
+
+</script>
+</html>
