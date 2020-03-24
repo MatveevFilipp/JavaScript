@@ -25,12 +25,12 @@ console.log(elem); /* объект */
 let elem = document.querySelector('#bloc');
 console.log(elem); /* объект */
 ```
-2. **.querySelectorAll();** - по селекторам (создает псевдо массив, указывая в length его длину)
+2. **.querySelectorAll();** - по селекторам (создает псевдомассив, указывая в length его длину)
 ```javascript
 let elem = document.querySelectorAll('.blocs');
-console.log(elem); /* псевдо массив */
+console.log(elem); /* псевдомассив */
 
-/* изменим текст в кажом блоке с классом blocs. Для этого переберем псевдо массив */
+/* изменим текст в кажом блоке с классом blocs. Для этого переберем псевдомассив */
 for(let i = 0; i < elem.length; i++){
 elem[i].textContent = "Новый текст для блока";
 }
