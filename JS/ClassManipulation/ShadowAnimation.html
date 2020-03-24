@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+<style>
+.bloc {
+  margin: 30px;
+  background-color: #444;
+  width: 200px;
+  height: 200px;
+  transition: 0.8s;
+}
+.bloc2 {
+  box-shadow: 0px 0px 30px 20px #000;
+}
+</style>
+</head>
+<body>
+    <div class="bloc"></div>
+</body>
+<script>
+    let elem = document.querySelector(".bloc");
+    window.setInterval(function() {
+        elem.classList.toggle("bloc2");
+    }, 2000);
+
+</script>
+</html>

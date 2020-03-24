@@ -29,6 +29,10 @@ elem.classList.remove('bloc2');
 /* добавим, удалим, добавим элементу с классом 'bloc' ещё один класс 'bloc2' */
 let elem = document.querySelector('.bloc');
 elem.classList.toggle('bloc2'); /* добавит */
-elem.classList.toggle('bloc2'); /* удалит */
+elem.classList.toggle('bloc2'); /* удалит */wi
 elem.classList.toggle('bloc2'); /* добавит */
 ```
+
+[Анимация тени](https://github.com/VipBender/JavaScript/blob/master/JS/ClassManipulation/ShadowAnimation.html)
+\-
+[пример](https://codepen.io/VipBender/pen/RwPegoM)  
