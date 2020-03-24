@@ -42,3 +42,6 @@ elem.addEventListener('click', function(){
     alert("Вы нажали кнопку");
 });
 ```
+[**Счетчик количества кликов мыши**](https://github.com/VipBender/JavaScript/tree/master/examples/NnumberOfClicks)
+\-
+[пример](https://codepen.io/VipBender/pen/poJxNdx)  
