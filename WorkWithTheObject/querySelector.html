@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <div class="bloc">1 блок - class</div>
+    <div class="bloc">2 блок - class</div>
+    <div id="bloc">3 блок - id</div>
+    <div id="bloc">4 блок - id</div>
+</body>
+<script>
+    /* создаем переменные */
+    let elem1 = document.querySelector('.bloc');
+    let elem2 = document.querySelector('#bloc');
+    /* меняем текст в блоках */
+    elem1.textContent = "изменяем elem1";
+    elem2.textContent = "изменяем elem2";
+</script>
+</html>

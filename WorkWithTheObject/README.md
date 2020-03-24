@@ -36,4 +36,5 @@ elem[i].textContent = "Новый текст для блока";
 }
 ```
 
-[пример](---)
+[пример querySelector](---)
+[пример querySelectorAll](---)
