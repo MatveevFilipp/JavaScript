@@ -1,8 +1,8 @@
 # Методы обращения к объектам
 
-### ~~Устаревшие~~
+## ~~Устаревшие методы~~
 
-1. **.getElementById();** - по id (только к одному id)  
+1. **.getElementById();** - по id (только один и самый первый)
 ```javascript
 let elem = document.getElementById('bloc');
 console.log(elem); /* объект */
@@ -17,4 +17,23 @@ console.log(elem); /* объект */
 let elem = document.getElementsClassName('bloc');
 console.log(elem); /* объект */
 ```
+  
+## Новые методы
+
+1. **.querySelector();** - по селектору (только один и самый первый)
+```javascript
+let elem = document.querySelector('#bloc');
+console.log(elem); /* объект */
+```
+2. **.querySelectorAll();** - по селекторам (создает псевдо массив, указывая в length его длину)
+```javascript
+let elem = document.querySelectorAll('.blocs');
+console.log(elem); /* псевдо массив */
+
+/* изменим текст в кажом блоке с классом blocs. Для этого переберем псевдо массив */
+for(let i = 0; i < elem.length; i++){
+elem[i].textContent = "Новый текст для блока";
+}
+```
+
 [пример](---)
