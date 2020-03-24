@@ -1,8 +1,8 @@
 # Примеры  
-[Счетчик количества кликов мыши](https://github.com/VipBender/JavaScript/tree/master/examples/NnumberOfClicks)
+[**Счетчик количества кликов мыши**](https://github.com/VipBender/JavaScript/tree/master/examples/NnumberOfClicks)
 \-
 [пример](https://codepen.io/VipBender/pen/poJxNdx)  
-[Работа с ползунком](https://github.com/VipBender/JavaScript/tree/master/examples/SliderValues)
+[**Работа с ползунком**](https://github.com/VipBender/JavaScript/tree/master/examples/SliderValues)
 \-
 [пример](https://codepen.io/VipBender/pen/mdJzOpm)  
 [**Положение мыши**](https://github.com/VipBender/JavaScript/tree/master/examples/MousePosition)
