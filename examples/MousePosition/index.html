@@ -22,11 +22,10 @@
     и узнаем значение мыши, через event
     */
     document.addEventListener('mousemove', function(){
-    /* ! pageX - относительно документа, clientX - относительно окна*/
-    textX.textContent = "X: " + event.pageX;
-    /* ! pageY - относительно документа, clientY - относительно окна*/
-    textY.textContent = "Y: " + event.pageY;
+        /* ! pageX - относительно документа, clientX - относительно окна*/
+        textX.textContent = "X: " + event.pageX;
+        /* ! pageY - относительно документа, clientY - относительно окна*/
+        textY.textContent = "Y: " + event.pageY;
     });
-
 </script>
 </html>
