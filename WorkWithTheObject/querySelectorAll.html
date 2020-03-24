@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <div class="bloc">0 блок - class="bloc"</div>
+    <div class="bloc">1 блок - class="bloc"</div>
+    <div class="bloc">2 блок - class="bloc"</div>
+    <div class="bloc2">3 блок - class="bloc2"</div>
+    <div class="bloc">4 блок - class="bloc"</div>
+    <div class="bloc">5 блок - class="bloc"</div>
+    <div class="bloc2">6 блок - class="bloc2"</div>
+    <div class="bloc">7 блок - class="bloc"</div>
+    <div class="bloc">8 блок - class="bloc"</div>
+    <div class="bloc">9 блок - class="bloc"</div>
+</body>
+<script>
+    /* создаем переменные */
+    let elem = document.querySelectorAll('.bloc');
+    /* меняем текст в блоках */
+    for(let i = 0; i < elem.length; i++){
+    elem[i].textContent = "Новый текст для " + i + " блока";
+    }
+</script>
+</html>

@@ -38,5 +38,7 @@ elem[i].textContent = "Новый текст для блока";
 
 [querySelector](https://github.com/VipBender/JavaScript/blob/master/WorkWithTheObject/querySelector.html)
 \-
-[пример](https://codepen.io/VipBender/pen/xxGygPd)
-[пример querySelectorAll](---)
+[пример](https://codepen.io/VipBender/pen/xxGygPd)  
+[querySelectorAll](https://github.com/VipBender/JavaScript/blob/master/WorkWithTheObject/querySelectorAll.html)
+\-
+[пример](https://codepen.io/VipBender/pen/MWwPJXy)  
