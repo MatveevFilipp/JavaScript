@@ -20,6 +20,7 @@
 ```
 ### Структура курса
 [Методы обращения к объектам](https://github.com/VipBender/JavaScript/tree/master/JS/WorkWithTheObject)  
+[Манипуляция с классами](https://github.com/VipBender/JavaScript/tree/master/JS/ClassManipulation)  
 ### Полезно
 [Мои настройки brackets](https://github.com/VipBender/JavaScript/blob/master/Brackets)  
 [Примеры](https://github.com/VipBender/JavaScript/tree/master/examples)  
