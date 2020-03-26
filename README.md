@@ -19,6 +19,7 @@
   /* -скрытый код */  
 ```
 ### Структура курса
+[Циклы](https://github.com/VipBender/JavaScript/tree/master/JS/Cycle)  
 [Методы обращения к объектам](https://github.com/VipBender/JavaScript/tree/master/JS/WorkWithTheObject)  
 [Манипуляция с классами](https://github.com/VipBender/JavaScript/tree/master/JS/ClassManipulation)  
 [Обработчики событий](https://github.com/VipBender/JavaScript/tree/master/JS/EventHandlers)  
