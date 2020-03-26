@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+
+</body>
+<script>
+    function getRandomInt(min, max) {
+        return Math.floor(Math.random() * (max + 1 - min) + min);
+    }
+
+    for (let i = 0; i < 999; i++) {
+        document.write(getRandomInt(-10, 10) + ", ");
+    }
+        document.write(getRandomInt(-10, 10) + ".");
+</script>
+</html>

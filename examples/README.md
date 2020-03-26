@@ -1,4 +1,7 @@
 # Примеры  
+[**Cлучайное число**](https://github.com/VipBender/JavaScript/tree/master/examples/MathRandom)
+\-
+[пример](https://codepen.io/VipBender/pen/XWbyEXr)  
 [**Счетчик количества кликов мыши**](https://github.com/VipBender/JavaScript/tree/master/examples/NnumberOfClicks)
 \-
 [пример](https://codepen.io/VipBender/pen/poJxNdx)  
