@@ -28,6 +28,6 @@ while(i < 10){
     i++;
 }   
 ```
-[**Вывод переменной через for**](https://github.com/VipBender/JavaScript/blob/master/JS/Cycle/CycleWhile.html)
+[**Вывод переменной через while**](https://github.com/VipBender/JavaScript/blob/master/JS/Cycle/CycleWhile.html)
 \-
 [пример](https://codepen.io/VipBender/pen/oNXQypN)  
