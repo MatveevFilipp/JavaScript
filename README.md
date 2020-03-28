@@ -12,6 +12,6 @@ ____
 [Манипуляция с классами](https://github.com/VipBender/JavaScript/tree/master/JS/ClassManipulation)  
 [Обработчики событий](https://github.com/VipBender/JavaScript/tree/master/JS/EventHandlers)  
 ____
-### Полезно
+### Полезно  
 [Мои настройки brackets](https://github.com/VipBender/JavaScript/blob/master/Brackets)  
 [Примеры](https://github.com/VipBender/JavaScript/tree/master/examples)  
