@@ -7,11 +7,11 @@
 | Скрытый код | /* -скрытый код */ | \<!-- -скрытый код --> |
 ____
 ### Структура курса
-[Циклы](https://github.com/VipBender/JavaScript/tree/master/JS/Cycle)  
-[Методы обращения к объектам](https://github.com/VipBender/JavaScript/tree/master/JS/WorkWithTheObject)  
-[Манипуляция с классами](https://github.com/VipBender/JavaScript/tree/master/JS/ClassManipulation)  
-[Обработчики событий](https://github.com/VipBender/JavaScript/tree/master/JS/EventHandlers)  
+[Циклы](https://github.com/MatveevFilipp/JavaScript/tree/master/JS/Cycle)  
+[Методы обращения к объектам](https://github.com/MatveevFilipp/JavaScript/tree/master/JS/WorkWithTheObject)  
+[Манипуляция с классами](https://github.com/MatveevFilipp/JavaScript/tree/master/JS/ClassManipulation)  
+[Обработчики событий](https://github.com/MatveevFilipp/JavaScript/tree/master/JS/EventHandlers)  
 ____
 ### Полезно  
-[Мои настройки brackets](https://github.com/VipBender/JavaScript/blob/master/Brackets)  
-[Примеры](https://github.com/VipBender/JavaScript/tree/master/examples)  
+[Мои настройки brackets](https://github.com/MatveevFilipp/JavaScript/blob/master/Brackets)  
+[Примеры](https://github.com/MatveevFilipp/JavaScript/tree/master/examples)  

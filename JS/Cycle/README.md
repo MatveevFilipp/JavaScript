@@ -11,9 +11,9 @@ for(let i = 0; i < 10; i++){
     console.log(i);
 };
 ```
-[**Вывод переменной через for**](https://github.com/VipBender/JavaScript/blob/master/JS/Cycle/CycleFor.html)
+[**Вывод переменной через for**](https://github.com/MatveevFilipp/JavaScript/blob/master/JS/Cycle/CycleFor.html)
 \-
-[пример](https://codepen.io/VipBender/pen/bGdQKqW)  
+[пример](https://codepen.io/MatveevFilipp/pen/bGdQKqW)  
 
 ### Цикл **while**  
 
@@ -28,9 +28,9 @@ while(i < 10){
     i++;
 };
 ```
-[**Вывод переменной через while**](https://github.com/VipBender/JavaScript/blob/master/JS/Cycle/CycleWhile.html)
+[**Вывод переменной через while**](https://github.com/MatveevFilipp/JavaScript/blob/master/JS/Cycle/CycleWhile.html)
 \-
-[пример](https://codepen.io/VipBender/pen/oNXQypN)  
+[пример](https://codepen.io/MatveevFilipp/pen/oNXQypN)  
 
 ### Цикл **do while**  
 
@@ -45,6 +45,6 @@ do{
     i++;
 }while(i < 10);
 ```
-[**Вывод переменной через do while**](https://github.com/VipBender/JavaScript/blob/master/JS/Cycle/CycleDoWhile.html)
+[**Вывод переменной через do while**](https://github.com/MatveevFilipp/JavaScript/blob/master/JS/Cycle/CycleDoWhile.html)
 \-
-[пример](https://codepen.io/VipBender/pen/YzXRvJq)  
+[пример](https://codepen.io/MatveevFilipp/pen/YzXRvJq)  

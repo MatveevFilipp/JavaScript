@@ -38,13 +38,13 @@ Ryan Stewart <rstewart@adobe.com> (http://github.com/ryanstewart)
 ✓ Ionicons  
 
 ### настройка 'Отладка -> Открыть файл настроек'
-[brackets.json](https://github.com/VipBender/JavaScript/blob/master/Brackets/brackets.json)
+[brackets.json](https://github.com/MatveevFilipp/JavaScript/blob/master/Brackets/brackets.json)
 
 # Полезно  
 
 ### основы emmet  
 #### изменение emmet шаблона (!+tab)
-1. ищем файл [snippets.json](https://github.com/VipBender/JavaScript/blob/master/Brackets/snippets.json) по пути C:\Users\**user**\AppData\Roaming\Brackets\extensions\user\brackets-emmet\node_modules\emmet\lib
+1. ищем файл [snippets.json](https://github.com/MatveevFilipp/JavaScript/blob/master/Brackets/snippets.json) по пути C:\Users\**user**\AppData\Roaming\Brackets\extensions\user\brackets-emmet\node_modules\emmet\lib
 2. **изменяем в нем:**  
 "lang": "en",  
 "locale": "en-EN",  

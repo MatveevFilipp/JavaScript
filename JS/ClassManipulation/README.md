@@ -33,6 +33,6 @@ elem.classList.toggle('bloc2'); /* удалит */wi
 elem.classList.toggle('bloc2'); /* добавит */
 ```
 
-[Анимация тени](https://github.com/VipBender/JavaScript/blob/master/JS/ClassManipulation/ShadowAnimation.html)
+[Анимация тени](https://github.com/MatveevFilipp/JavaScript/blob/master/JS/ClassManipulation/ShadowAnimation.html)
 \-
-[пример](https://codepen.io/VipBender/pen/RwPegoM)  
+[пример](https://codepen.io/MatveevFilipp/pen/RwPegoM)  

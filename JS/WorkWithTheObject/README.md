@@ -36,9 +36,9 @@ elem[i].textContent = "Новый текст для блока";
 }
 ```
 
-[querySelector](https://github.com/VipBender/JavaScript/blob/master/JS/WorkWithTheObject/querySelector.html)
+[querySelector](https://github.com/MatveevFilipp/JavaScript/blob/master/JS/WorkWithTheObject/querySelector.html)
 \-
-[пример](https://codepen.io/VipBender/pen/xxGygPd)  
-[querySelectorAll](https://github.com/VipBender/JavaScript/blob/master/JS/WorkWithTheObject/querySelectorAll.html)
+[пример](https://codepen.io/MatveevFilipp/pen/xxGygPd)  
+[querySelectorAll](https://github.com/MatveevFilipp/JavaScript/blob/master/JS/WorkWithTheObject/querySelectorAll.html)
 \-
-[пример](https://codepen.io/VipBender/pen/MWwPJXy)  
+[пример](https://codepen.io/MatveevFilipp/pen/MWwPJXy)  
