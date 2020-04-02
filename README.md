@@ -7,6 +7,7 @@
 | Скрытый код | /* -скрытый код */ | \<!-- -скрытый код --> |
 ____
 ### Структура курса
+[Условный оператор if](https://github.com/MatveevFilipp/JavaScript/tree/master/JS/ConditionalOperator)  
 [Циклы](https://github.com/MatveevFilipp/JavaScript/tree/master/JS/Cycle)  
 [Методы обращения к объектам](https://github.com/MatveevFilipp/JavaScript/tree/master/JS/WorkWithTheObject)  
 [Манипуляция с классами](https://github.com/MatveevFilipp/JavaScript/tree/master/JS/ClassManipulation)  
