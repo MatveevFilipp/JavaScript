@@ -10,19 +10,17 @@ addCookie('text', "текст");
 addCookie('number', 123);
 
 console.log(document.cookie);
-}
 ```
 ___
 2. **getCookie('ключ(имя)');** - чтения из document.cookie
 ```javascript
 console.log(getCookie('text'));
 console.log(getCookie('number'));
-}
 ```
 ___
 3. **deleteCookie('ключ(имя)');** - удаление из document.cookie
 ```javascript
 deleteCookie('text');
 deleteCookie('number');
-}
 ```
+
