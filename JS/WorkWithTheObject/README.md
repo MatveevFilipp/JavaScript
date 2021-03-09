@@ -12,7 +12,7 @@ console.log(elem); /* объект */
 let elem = document.getElementsByName('comment');
 console.log(elem); /* объект */
 ```
-3. **.getElementsClassName();** - по имени класса (создает HTML коллекцию, не массив!)
+3. **.getElementsByClassName();** - по имени класса (создает HTML коллекцию, не массив!)
 ```javascript
 let elem = document.getElementsClassName('bloc');
 console.log(elem); /* объект */
