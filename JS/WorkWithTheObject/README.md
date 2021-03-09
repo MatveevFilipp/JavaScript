@@ -3,19 +3,31 @@
 ## ~~Устаревшие методы~~
 
 1. **.getElementById();** - по id (только один и самый первый)
+```html
+<p id="bloc">text</p>
+```
 ```javascript
-let elem = document.getElementById('bloc');
-console.log(elem); /* объект */
+let elem = document.getElementById('bloc'); /* объект по id */
+console.log(elem);
+console.dir(elem);
 ```
 2. **.getElementsByName();** - по имени
+```html
+<p name="bloc">text</p>
+```
 ```javascript
-let elem = document.getElementsByName('comment');
-console.log(elem); /* объект */
+let elem = document.getElementsByName('comment'); /* объект по name */
+console.log(elem);
+console.dir(elem);
 ```
 3. **.getElementsByClassName();** - по имени класса (создает HTML коллекцию, не массив!)
+```html
+<p class="bloc">text</p>
+```
 ```javascript
-let elem = document.getElementsClassName('bloc');
-console.log(elem); /* объект */
+let elem = document.getElementsClassName('bloc'); /* объект по class */
+console.log(elem);
+console.dir(elem);
 ```
   
 ## Новые методы
